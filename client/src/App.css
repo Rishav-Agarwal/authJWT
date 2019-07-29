@@ -1,0 +1,16 @@
+.bg-black {
+  background-color: black;
+}
+
+.btn-dark {
+  background-color: black;
+  border-color: black;
+}
+
+.nav-tabs>.nav-link.active {
+  color: black;
+}
+
+.nav-tabs>.nav-link {
+  color: grey;
+}
