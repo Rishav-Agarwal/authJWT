@@ -6,6 +6,8 @@ A simple MERN stack app to demonstrate signup and login using JWT.
 3. `cd` into the project's root directory and then run `npm install`.
 4. Run `npm run dev` to run in development mode and open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Please **note** that [nodejs along with npm](https://nodejs.org) and [mongodb](https://www.mongodb.com/download-center/community) should be downloaded and properly installed in your computer for it to work.
+
 ## Available Scripts
 
 In the project directory, you can run:
