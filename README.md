@@ -2,8 +2,8 @@ A simple MERN stack app to demonstrate signup and login using JWT.
 
 ## How to use?
 1. `clone` / `fork` -> `clone` the replository.
-2. Run `npm install`.
-3. Start mongodb server using `mongod`.
+2. Start mongodb server using `mongod`.
+3. `cd` into the project's root directory and then run `npm install`.
 4. Run `npm run dev` to run in development mode and open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Available Scripts
